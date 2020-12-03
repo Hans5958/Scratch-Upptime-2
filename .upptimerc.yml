@@ -1,34 +1,26 @@
-# Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: Hans5958
+repo: Scratch-Upptime-2
 
-# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Assets CDN server
+    url: https://cdn.assets.scratch.mit.edu
+  - name: Project CDN server
+    url: https://cdn.projects.scratch.mit.edu
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  name: Scratch Upptime 2 (unofficial)
+  introTitle: Welcome to **[Scratch](https://scratch.mit.edu)**'s second (unofficial) Upptime status page.
+  introMessage: This is the status page for less-known services related to [Scratch](https://scratch.mit.edu). It monitors them for free using GitHub services, thanks to [Upptime](https://github.com/upptime/upptime).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+user-agent: Auto5958
+commitMessages:
+  commitAuthorName: Auto5958
+  commitAuthorEmail: 69833949+Auto5958@users.noreply.github.com
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
