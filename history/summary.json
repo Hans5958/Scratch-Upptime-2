@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 222,
-    "timeWeek": 236,
-    "timeMonth": 236,
-    "timeYear": 236
+    "time": 234,
+    "timeDay": 227,
+    "timeWeek": 234,
+    "timeMonth": 234,
+    "timeYear": 234
   },
   {
     "name": "Project CDN server",
@@ -25,10 +25,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 113,
-    "timeWeek": 178,
-    "timeMonth": 178,
-    "timeYear": 178
+    "time": 173,
+    "timeDay": 149,
+    "timeWeek": 173,
+    "timeMonth": 173,
+    "timeYear": 173
   }
 ]
