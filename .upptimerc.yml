@@ -28,40 +28,22 @@ sites:
     url: https://cdn.projects.scratch.mit.edu
   - name: "Redirect: scratch.org"
     url: https://scratch.org
-    expectedStatusCodes:
-      - 301
   - name: "Redirect: scratch.love"
     url: https://scratch.love
-    expectedStatusCodes:
-      - 301
   - name: "Redirect: scratch.computer"
     url: https://scratch.computer
-    expectedStatusCodes:
-      - 301
   - name: "Redirect: scratch.chat"
     url: https://scratch.chat
-    expectedStatusCodes:
-      - 301
   - name: "Redirect: scratch.land"
     url: https://scratch.land
-    expectedStatusCodes:
-      - 301
   - name: "Redirect: scratch.rest"
     url: https://scratch.rest
-    expectedStatusCodes:
-      - 301
   - name: "Redirect: scratch.team"
     url: https://scratch.team
-    expectedStatusCodes:
-      - 301
   - name: "Redirect: scratch.camp"
     url: https://scratch.camp
-    expectedStatusCodes:
-      - 301
   - name: "Redirect: scratch.pizza"
     url: https://scratch.pizza
-    expectedStatusCodes:
-      - 301
 
 status-website:
   name: Scratch Upptime 2 (unofficial)
