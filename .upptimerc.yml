@@ -2,10 +2,66 @@ owner: Hans5958
 repo: Scratch-Upptime-2
 
 sites:
+  - name: Scratch Lab
+    url: https://lab.scratch.mit.edu
+  - name: ScratchX
+    url: https://scratchx.org
+  - name: ScratchJr
+    url: https://www.scratchjr.org
+  - name: ScratchEd
+    url: http://scratched.gse.harvard.edu
+  - name: Scratch Foundation
+    url: https://scratchfoundation.org
+  - name: Scratch Day website
+    url: https://day.scratch.mit.edu
+  - name: Scratch in Practice website
+    url: https://sip.scratch.mit.edu
+  - name: Test website
+    url: https://scratch.ly
+    expectedStatusCodes:
+      - 403
+  - name: Test download server
+    url: https://downloads.scratch.ly
   - name: Assets CDN server
     url: https://cdn.assets.scratch.mit.edu
   - name: Project CDN server
     url: https://cdn.projects.scratch.mit.edu
+  - name: Redirect: scratch.org
+    url: https://scratch.org
+    expectedStatusCodes:
+      - 301
+  - name: Redirect: scratch.love
+    url: https://scratch.love
+    expectedStatusCodes:
+      - 301
+  - name: Redirect: scratch.computer
+    url: https://scratch.computer
+    expectedStatusCodes:
+      - 301
+  - name: Redirect: scratch.chat
+    url: https://scratch.chat
+    expectedStatusCodes:
+      - 301
+  - name: Redirect: scratch.land
+    url: https://scratch.land
+    expectedStatusCodes:
+      - 301
+  - name: Redirect: scratch.rest
+    url: https://scratch.rest
+    expectedStatusCodes:
+      - 301
+  - name: Redirect: scratch.team
+    url: https://scratch.team
+    expectedStatusCodes:
+      - 301
+  - name: Redirect: scratch.camp
+    url: https://scratch.camp
+    expectedStatusCodes:
+      - 301
+  - name: Redirect: scratch.pizza
+    url: https://scratch.pizza
+    expectedStatusCodes:
+      - 301
 
 status-website:
   name: Scratch Upptime 2 (unofficial)
