@@ -76,9 +76,9 @@
     "url": "https://scratchfoundation.org",
     "icon": "https://favicons.githubusercontent.com/scratchfoundation.org",
     "slug": "scratch-foundation-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 570,
     "timeMonth": 519,
     "timeYear": 519,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-21": 0
+    }
   },
   {
     "name": "Scratch Day website",
