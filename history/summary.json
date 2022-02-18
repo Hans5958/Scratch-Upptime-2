@@ -99,9 +99,9 @@
     "url": "https://day.scratch.mit.edu",
     "icon": "https://favicons.githubusercontent.com/day.scratch.mit.edu",
     "slug": "scratch-day-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -110,7 +110,9 @@
     "timeWeek": 314,
     "timeMonth": 351,
     "timeYear": 320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-18": 0
+    }
   },
   {
     "name": "Scratch in Practice website",
