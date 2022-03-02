@@ -156,9 +156,9 @@
     "url": "https://downloads.scratch.ly",
     "icon": "https://favicons.githubusercontent.com/downloads.scratch.ly",
     "slug": "test-download-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -167,7 +167,9 @@
     "timeWeek": 172,
     "timeMonth": 178,
     "timeYear": 218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   },
   {
     "name": "Assets CDN server",
