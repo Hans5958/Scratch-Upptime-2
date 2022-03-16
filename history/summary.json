@@ -160,7 +160,7 @@
     "uptime": "93.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.05%",
+    "uptimeMonth": "52.01%",
     "uptimeYear": "93.75%",
     "time": 218,
     "timeDay": 0,
@@ -168,7 +168,7 @@
     "timeMonth": 162,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2022-03-16": 926,
+      "2022-03-16": 945,
       "2022-03-15": 1440,
       "2022-03-14": 1440,
       "2022-03-13": 1440,
@@ -190,19 +190,19 @@
     "url": "https://cdn.assets.scratch.mit.edu",
     "icon": "https://favicons.githubusercontent.com/cdn.assets.scratch.mit.edu",
     "slug": "assets-cdn-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 732,
-    "timeWeek": 288,
+    "timeDay": 544,
+    "timeWeek": 275,
     "timeMonth": 166,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2022-03-16": 0
+      "2022-03-16": 19
     }
   },
   {
