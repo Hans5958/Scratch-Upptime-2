@@ -22,9 +22,9 @@
     "url": "https://scratchx.org",
     "icon": "https://favicons.githubusercontent.com/scratchx.org",
     "slug": "scratch-x-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 173,
     "timeMonth": 174,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "ScratchJr website",
@@ -188,18 +190,18 @@
     "icon": "https://favicons.githubusercontent.com/downloads.scratch.ly",
     "slug": "test-download-server",
     "status": "down",
-    "uptime": "52.63%",
+    "uptime": "52.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.01%",
+    "uptimeYear": "45.83%",
     "time": 218,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2022-09-15": 162,
+      "2022-09-15": 1134,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
