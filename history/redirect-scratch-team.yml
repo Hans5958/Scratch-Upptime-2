@@ -1,7 +1,7 @@
 url: https://scratch.team
-status: up
-code: 200
-responseTime: 57
-lastUpdated: 2022-10-03T23:16:58.642Z
+status: down
+code: 503
+responseTime: 285
+lastUpdated: 2022-10-04T19:53:25.256Z
 startTime: Mon Jul 26 2021 03:16:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
