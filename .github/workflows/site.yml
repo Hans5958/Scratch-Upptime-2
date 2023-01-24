@@ -36,5 +36,6 @@ jobs:
         with:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
+          force_orphan: "false"
           user_name: "Auto5958"
           user_email: "69833949+Auto5958@users.noreply.github.com"
