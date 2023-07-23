@@ -1,7 +1,7 @@
 url: https://sip.scratch.mit.edu
-status: down
-code: 429
-responseTime: 213
-lastUpdated: 2023-07-23T19:13:52.362Z
+status: up
+code: 200
+responseTime: 103
+lastUpdated: 2023-07-23T19:39:04.317Z
 startTime: Mon Jul 26 2021 03:16:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
