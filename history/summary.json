@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2023-07-23": 1112,
+      "2023-07-23": 1124,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
@@ -276,11 +276,11 @@
     "url": "https://sip.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/sip.scratch.mit.edu.ico",
     "slug": "scratch-in-practice-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
@@ -288,7 +288,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-23": 0,
+      "2023-07-23": 13,
       "2023-01-08": 12
     }
   },
@@ -327,7 +327,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-23": 1112,
+      "2023-07-23": 1125,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
@@ -729,7 +729,7 @@
     "timeMonth": 134,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2023-07-23": 1112,
+      "2023-07-23": 1125,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
