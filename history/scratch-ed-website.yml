@@ -1,7 +1,7 @@
 url: http://scratched.gse.harvard.edu
-status: up
-code: 200
-responseTime: 47
-lastUpdated: 2023-10-12T23:09:56.579Z
+status: down
+code: 421
+responseTime: 556
+lastUpdated: 2023-10-13T20:45:10.870Z
 startTime: 2021-07-26T03:52:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
