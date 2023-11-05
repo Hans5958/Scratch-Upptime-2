@@ -1,7 +1,7 @@
 url: https://cdn.assets.scratch.mit.edu
-status: down
-code: 503
-responseTime: 1485
-lastUpdated: 2023-11-05T17:23:38.281Z
+status: up
+code: 200
+responseTime: 29
+lastUpdated: 2023-11-05T17:48:35.306Z
 startTime: 2020-12-03T15:34:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
