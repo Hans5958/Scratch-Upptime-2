@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/scratchx.org.ico",
     "slug": "scratch-x-website",
     "status": "down",
-    "uptime": "73.69%",
+    "uptime": "73.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.63%",
+    "uptimeYear": "39.60%",
     "time": 192,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2023-11-10": 1422,
+      "2023-11-11": 133,
+      "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -443,7 +444,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-10": 1423,
+      "2023-11-11": 133,
+      "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -806,8 +808,7 @@
       "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
-      "2022-11-12": 1440,
-      "2022-11-11": 1440
+      "2022-11-12": 1440
     }
   },
   {
@@ -816,18 +817,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.assets.scratch.mit.edu.ico",
     "slug": "assets-cdn-server",
     "status": "down",
-    "uptime": "99.66%",
+    "uptime": "99.65%",
     "uptimeDay": "25.96%",
-    "uptimeWeek": "48.34%",
-    "uptimeMonth": "88.11%",
-    "uptimeYear": "99.01%",
+    "uptimeWeek": "46.84%",
+    "uptimeMonth": "87.77%",
+    "uptimeYear": "98.98%",
     "time": 499,
     "timeDay": 837,
-    "timeWeek": 829,
+    "timeWeek": 830,
     "timeMonth": 796,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2023-11-10": 1049,
+      "2023-11-11": 133,
+      "2023-11-10": 1067,
       "2023-11-09": 1209,
       "2023-11-08": 1084,
       "2023-11-07": 984,
@@ -841,7 +843,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.projects.scratch.mit.edu.ico",
     "slug": "project-cdn-server",
     "status": "down",
-    "uptime": "65.95%",
+    "uptime": "65.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -852,7 +854,8 @@
     "timeMonth": 112,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2023-11-10": 1423,
+      "2023-11-11": 133,
+      "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -1215,8 +1218,7 @@
       "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
-      "2022-11-12": 1440,
-      "2022-11-11": 1440
+      "2022-11-12": 1440
     }
   },
   {
