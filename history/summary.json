@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2023-11-13": 462,
+      "2023-11-13": 475,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -446,7 +446,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-13": 463,
+      "2023-11-13": 475,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -818,25 +818,25 @@
     "url": "https://cdn.assets.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.assets.scratch.mit.edu.ico",
     "slug": "assets-cdn-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "32.65%",
-    "uptimeWeek": "40.96%",
-    "uptimeMonth": "86.41%",
+    "uptimeDay": "33.48%",
+    "uptimeWeek": "41.14%",
+    "uptimeMonth": "86.46%",
     "uptimeYear": "98.87%",
-    "time": 522,
-    "timeDay": 781,
-    "timeWeek": 820,
-    "timeMonth": 799,
-    "timeYear": 579,
+    "time": 523,
+    "timeDay": 799,
+    "timeWeek": 822,
+    "timeMonth": 800,
+    "timeYear": 580,
     "dailyMinutesDown": {
-      "2023-11-13": 321,
+      "2023-11-13": 322,
       "2023-11-12": 1017,
       "2023-11-11": 850,
       "2023-11-10": 1067,
       "2023-11-09": 1209,
       "2023-11-08": 1084,
-      "2023-11-07": 403
+      "2023-11-07": 383
     }
   },
   {
@@ -856,7 +856,7 @@
     "timeMonth": 114,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2023-11-13": 463,
+      "2023-11-13": 475,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
