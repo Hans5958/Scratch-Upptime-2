@@ -27,14 +27,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.81%",
+    "uptimeYear": "38.79%",
     "time": 193,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2023-11-13": 1437,
+      "2023-11-14": 74,
+      "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -435,7 +436,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/downloads.scratch.ly.ico",
     "slug": "test-download-server",
     "status": "down",
-    "uptime": "26.04%",
+    "uptime": "26.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -446,7 +447,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-13": 1437,
+      "2023-11-14": 74,
+      "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -809,8 +811,7 @@
       "2022-11-18": 1440,
       "2022-11-17": 1440,
       "2022-11-16": 1440,
-      "2022-11-15": 1440,
-      "2022-11-14": 1440
+      "2022-11-15": 1440
     }
   },
   {
@@ -819,18 +820,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.assets.scratch.mit.edu.ico",
     "slug": "assets-cdn-server",
     "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "26.25%",
-    "uptimeWeek": "41.41%",
-    "uptimeMonth": "86.52%",
-    "uptimeYear": "98.88%",
+    "uptime": "99.61%",
+    "uptimeDay": "23.98%",
+    "uptimeWeek": "40.64%",
+    "uptimeMonth": "86.34%",
+    "uptimeYear": "98.86%",
     "time": 538,
-    "timeDay": 780,
+    "timeDay": 794,
     "timeWeek": 818,
     "timeMonth": 800,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2023-11-13": 1060,
+      "2023-11-14": 75,
+      "2023-11-13": 1063,
       "2023-11-12": 1017,
       "2023-11-11": 850,
       "2023-11-10": 1067,
@@ -855,7 +857,8 @@
     "timeMonth": 114,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2023-11-13": 1437,
+      "2023-11-14": 75,
+      "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -1218,8 +1221,7 @@
       "2022-11-18": 1440,
       "2022-11-17": 1440,
       "2022-11-16": 1440,
-      "2022-11-15": 1440,
-      "2022-11-14": 1440
+      "2022-11-15": 1440
     }
   },
   {
