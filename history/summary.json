@@ -14,7 +14,7 @@
     "timeDay": 201,
     "timeWeek": 163,
     "timeMonth": 197,
-    "timeYear": 208,
+    "timeYear": 209,
     "dailyMinutesDown": {}
   },
   {
@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.98%",
+    "uptimeYear": "34.97%",
     "time": 192,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2023-11-27": 1391,
+      "2023-11-27": 1413,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
@@ -310,7 +310,7 @@
     "timeDay": 305,
     "timeWeek": 166,
     "timeMonth": 275,
-    "timeYear": 592,
+    "timeYear": 593,
     "dailyMinutesDown": {
       "2023-11-26": 13,
       "2023-11-20": 13,
@@ -369,7 +369,7 @@
     "timeDay": 544,
     "timeWeek": 496,
     "timeMonth": 497,
-    "timeYear": 510,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2023-11-23": 11,
       "2023-05-27": 18,
@@ -464,7 +464,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-27": 1391,
+      "2023-11-27": 1413,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
@@ -836,17 +836,17 @@
     "url": "https://cdn.assets.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.assets.scratch.mit.edu.ico",
     "slug": "assets-cdn-server",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "21.36%",
-    "uptimeWeek": "16.38%",
-    "uptimeMonth": "61.57%",
-    "uptimeYear": "96.80%",
-    "time": 567,
-    "timeDay": 770,
-    "timeWeek": 798,
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "22.87%",
+    "uptimeWeek": "16.59%",
+    "uptimeMonth": "61.86%",
+    "uptimeYear": "96.82%",
+    "time": 568,
+    "timeDay": 790,
+    "timeWeek": 802,
     "timeMonth": 813,
-    "timeYear": 635,
+    "timeYear": 636,
     "dailyMinutesDown": {
       "2023-11-27": 1096,
       "2023-11-26": 1043,
@@ -861,7 +861,7 @@
       "2023-11-17": 1427,
       "2023-11-16": 1440,
       "2023-11-15": 1274,
-      "2023-11-14": 178
+      "2023-11-14": 50
     }
   },
   {
@@ -881,7 +881,7 @@
     "timeMonth": 113,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2023-11-27": 1391,
+      "2023-11-27": 1413,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
@@ -1341,7 +1341,7 @@
     "timeDay": 151,
     "timeWeek": 224,
     "timeMonth": 225,
-    "timeYear": 235,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2023-10-03": 24
     }
@@ -1402,7 +1402,7 @@
     "timeDay": 333,
     "timeWeek": 250,
     "timeMonth": 275,
-    "timeYear": 285,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2023-10-03": 24
     }
@@ -1422,7 +1422,7 @@
     "timeDay": 222,
     "timeWeek": 288,
     "timeMonth": 276,
-    "timeYear": 285,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2023-10-03": 24
     }
