@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/scratchx.org.ico",
     "slug": "scratch-x-website",
     "status": "down",
-    "uptime": "70.91%",
+    "uptime": "70.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2023-12-13": 1357,
+      "2023-12-13": 1388,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
@@ -326,7 +326,7 @@
     "timeDay": 382,
     "timeWeek": 278,
     "timeMonth": 255,
-    "timeYear": 583,
+    "timeYear": 584,
     "dailyMinutesDown": {
       "2023-12-01": 12,
       "2023-11-26": 13,
@@ -479,7 +479,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-13": 1357,
+      "2023-12-13": 1388,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
@@ -851,19 +851,19 @@
     "url": "https://cdn.assets.scratch.mit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.assets.scratch.mit.edu.ico",
     "slug": "assets-cdn-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "14.23%",
-    "uptimeWeek": "15.79%",
-    "uptimeMonth": "74.98%",
+    "uptimeDay": "16.17%",
+    "uptimeWeek": "16.09%",
+    "uptimeMonth": "75.01%",
     "uptimeYear": "97.92%",
-    "time": 635,
-    "timeDay": 811,
-    "timeWeek": 849,
-    "timeMonth": 820,
+    "time": 636,
+    "timeDay": 809,
+    "timeWeek": 853,
+    "timeMonth": 822,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2023-12-13": 1166,
+      "2023-12-13": 1167,
       "2023-12-12": 1283,
       "2023-12-11": 1098,
       "2023-12-10": 1169,
@@ -872,7 +872,7 @@
       "2023-12-07": 1283,
       "2023-12-06": 1255,
       "2023-12-05": 1151,
-      "2023-12-04": 137
+      "2023-12-04": 125
     }
   },
   {
@@ -892,7 +892,7 @@
     "timeMonth": 117,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2023-12-13": 1357,
+      "2023-12-13": 1388,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
