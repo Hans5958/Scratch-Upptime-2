@@ -1,7 +1,7 @@
 url: https://scratch.pizza
-status: up
-code: 200
-responseTime: 462
-lastUpdated: 2024-01-04T23:11:06.110Z
+status: down
+code: 503
+responseTime: 191
+lastUpdated: 2024-01-05T10:36:08.020Z
 startTime: 2021-07-26T03:16:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
