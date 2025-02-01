@@ -1,7 +1,7 @@
 url: https://scratch.org
-status: up
-code: 200
-responseTime: 495
-lastUpdated: 2025-01-31T23:12:08.693Z
+status: down
+code: 503
+responseTime: 253
+lastUpdated: 2025-02-01T04:26:42.526Z
 startTime: 2021-07-26T03:16:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
