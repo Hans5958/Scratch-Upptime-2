@@ -1,7 +1,7 @@
 url: https://scratch.chat
-status: up
-code: 200
-responseTime: 169
-lastUpdated: 2025-01-31T23:12:10.106Z
+status: down
+code: 503
+responseTime: 226
+lastUpdated: 2025-02-01T04:26:45.181Z
 startTime: 2021-07-26T03:16:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
