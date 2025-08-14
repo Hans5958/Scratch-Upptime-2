@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/scratchx.org.ico",
     "slug": "scratch-x-website",
     "status": "down",
-    "uptime": "41.72%",
+    "uptime": "41.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-14": 349,
+      "2025-08-14": 410,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -424,13 +424,13 @@
     "url": "http://scratched.gse.harvard.edu",
     "icon": "https://icons.duckduckgo.com/ip3/scratched.gse.harvard.edu.ico",
     "slug": "scratch-ed-website",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "96.00%",
-    "uptimeWeek": "98.13%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "98.12%",
     "uptimeMonth": "98.72%",
-    "uptimeYear": "99.61%",
-    "time": 425,
+    "uptimeYear": "99.62%",
+    "time": 424,
     "timeDay": 547,
     "timeWeek": 345,
     "timeMonth": 347,
@@ -504,8 +504,7 @@
       "2025-02-20": 25,
       "2025-02-19": 25,
       "2025-02-17": 46,
-      "2025-02-16": 13,
-      "2025-02-15": 26
+      "2025-02-16": 13
     }
   },
   {
@@ -639,7 +638,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "57.34%",
+    "uptimeYear": "57.36%",
     "time": 208,
     "timeDay": 110,
     "timeWeek": 175,
@@ -820,7 +819,7 @@
     "timeMonth": 1473,
     "timeYear": 1479,
     "dailyMinutesDown": {
-      "2025-08-14": 349,
+      "2025-08-14": 410,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -1193,7 +1192,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.projects.scratch.mit.edu.ico",
     "slug": "project-cdn-server",
     "status": "down",
-    "uptime": "41.25%",
+    "uptime": "41.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1204,7 +1203,7 @@
     "timeMonth": 126,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-08-14": 349,
+      "2025-08-14": 410,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -1609,7 +1608,7 @@
     "timeMonth": 154,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2025-08-14": 349,
+      "2025-08-14": 410,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -2034,7 +2033,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-14": 350,
+      "2025-08-14": 410,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -2439,7 +2438,7 @@
     "timeMonth": 303,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-08-14": 350,
+      "2025-08-14": 410,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -2823,7 +2822,7 @@
     "timeMonth": 0,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-08-14": 350,
+      "2025-08-14": 411,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -3207,7 +3206,7 @@
     "timeMonth": 744,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2025-08-14": 350,
+      "2025-08-14": 411,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
