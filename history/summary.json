@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-07": 325,
+      "2025-09-07": 340,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -558,7 +558,7 @@
     "uptime": "98.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.04%",
+    "uptimeMonth": "66.01%",
     "uptimeYear": "97.03%",
     "time": 183,
     "timeDay": 527,
@@ -566,7 +566,7 @@
     "timeMonth": 325,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-09-07": 325,
+      "2025-09-07": 340,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -807,7 +807,7 @@
     "timeMonth": 1460,
     "timeYear": 1478,
     "dailyMinutesDown": {
-      "2025-09-07": 325,
+      "2025-09-07": 340,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -1191,7 +1191,7 @@
     "timeMonth": 123,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-09-07": 325,
+      "2025-09-07": 340,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -1596,7 +1596,7 @@
     "timeMonth": 143,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-09-07": 325,
+      "2025-09-07": 340,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -1968,18 +1968,19 @@
     "url": "https://scratch.computer",
     "icon": "https://icons.duckduckgo.com/ip3/scratch.computer.ico",
     "slug": "redirect-scratch-computer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 460,
+    "time": 461,
     "timeDay": 328,
     "timeWeek": 414,
     "timeMonth": 359,
     "timeYear": 500,
     "dailyMinutesDown": {
+      "2025-09-07": 1,
       "2025-06-06": 17
     }
   },
@@ -1990,9 +1991,9 @@
     "slug": "redirect-scratch-chat",
     "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 252,
     "timeDay": 358,
@@ -2000,7 +2001,7 @@
     "timeMonth": 285,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-09-07": 1,
+      "2025-09-07": 15,
       "2025-06-06": 17,
       "2025-02-01": 16
     }
@@ -2011,7 +2012,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/scratch.land.ico",
     "slug": "redirect-scratch-land",
     "status": "down",
-    "uptime": "69.42%",
+    "uptime": "69.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2022,7 +2023,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-07": 325,
+      "2025-09-07": 340,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -2394,10 +2395,10 @@
     "url": "https://scratch.rest",
     "icon": "https://icons.duckduckgo.com/ip3/scratch.rest.ico",
     "slug": "redirect-scratch-rest",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 196,
@@ -2406,6 +2407,7 @@
     "timeMonth": 420,
     "timeYear": 211,
     "dailyMinutesDown": {
+      "2025-09-07": 1,
       "2025-06-06": 17,
       "2025-02-01": 16
     }
@@ -2427,7 +2429,7 @@
     "timeMonth": 220,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-09-07": 325,
+      "2025-09-07": 340,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -2811,7 +2813,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-07": 325,
+      "2025-09-07": 340,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -3195,7 +3197,7 @@
     "timeMonth": 723,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2025-09-07": 325,
+      "2025-09-07": 340,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
