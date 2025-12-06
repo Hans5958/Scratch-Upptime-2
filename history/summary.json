@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-06": 668,
+      "2025-12-06": 794,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -424,9 +424,9 @@
     "url": "http://scratched.gse.harvard.edu",
     "icon": "https://icons.duckduckgo.com/ip3/scratched.gse.harvard.edu.ico",
     "slug": "scratch-ed-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "96.69%",
+    "uptimeDay": "96.66%",
     "uptimeWeek": "98.01%",
     "uptimeMonth": "98.28%",
     "uptimeYear": "98.57%",
@@ -509,7 +509,7 @@
       "2025-04-29": 18,
       "2025-04-27": 13,
       "2025-04-26": 22,
-      "2025-04-25": 42
+      "2025-04-25": 18
     }
   },
   {
@@ -561,14 +561,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "72.31%",
+    "uptimeYear": "72.29%",
     "time": 249,
     "timeDay": 842,
     "timeWeek": 565,
     "timeMonth": 541,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2025-12-06": 669,
+      "2025-12-06": 794,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -735,11 +735,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/downloads.scratch.ly.ico",
     "slug": "test-download-server",
     "status": "up",
-    "uptime": "34.01%",
+    "uptime": "34.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.59%",
+    "uptimeYear": "88.61%",
     "time": 222,
     "timeDay": 250,
     "timeWeek": 156,
@@ -807,7 +807,7 @@
     "timeMonth": 1469,
     "timeYear": 1485,
     "dailyMinutesDown": {
-      "2025-12-06": 669,
+      "2025-12-06": 794,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -1191,7 +1191,7 @@
     "timeMonth": 115,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2025-12-06": 669,
+      "2025-12-06": 794,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -1597,7 +1597,7 @@
     "timeMonth": 142,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-12-06": 669,
+      "2025-12-06": 794,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -2013,7 +2013,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/scratch.land.ico",
     "slug": "redirect-scratch-land",
     "status": "down",
-    "uptime": "65.49%",
+    "uptime": "65.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2024,7 +2024,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-06": 669,
+      "2025-12-06": 794,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -2430,7 +2430,7 @@
     "timeMonth": 395,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2025-12-06": 669,
+      "2025-12-06": 794,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -2814,7 +2814,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-06": 669,
+      "2025-12-06": 794,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -3198,7 +3198,7 @@
     "timeMonth": 424,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2025-12-06": 669,
+      "2025-12-06": 794,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
