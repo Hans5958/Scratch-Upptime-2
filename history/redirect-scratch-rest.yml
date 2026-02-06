@@ -1,7 +1,7 @@
 url: https://scratch.rest
-status: up
-code: 200
-responseTime: 104
-lastUpdated: 2026-02-06T23:20:43.038Z
+status: down
+code: 503
+responseTime: 141
+lastUpdated: 2026-02-06T23:55:33.664Z
 startTime: 2021-07-26T03:16:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
